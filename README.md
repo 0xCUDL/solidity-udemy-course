@@ -1,2 +1,1 @@
-# solidity-udemy-course
-A place for code generated from the course.
+# Updated Code for the Ethereum Solidity: The Complete Developer's Guide on Udemy

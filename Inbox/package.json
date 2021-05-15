@@ -1,0 +1,26 @@
+{
+  "name": "solidity-udemy-course",
+  "version": "1.0.0",
+  "description": "A place for code generated from the course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-O-U-L/solidity-udemy-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T-O-U-L/solidity-udemy-course/issues"
+  },
+  "homepage": "https://github.com/T-O-U-L/solidity-udemy-course#readme",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "mocha": "^8.4.0",
+    "solc": "^0.8.4",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.2.1"
+  }
+}
